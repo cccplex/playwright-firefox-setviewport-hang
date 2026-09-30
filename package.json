@@ -1,0 +1,8 @@
+{
+  "name": "playwright-firefox-setviewport-hang",
+  "private": true,
+  "description": "Minimal reproduction for headed Firefox hanging on page.setViewportSize()",
+  "dependencies": {
+    "playwright": "1.64.0-alpha-2026-09-30"
+  }
+}
